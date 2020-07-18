@@ -1,0 +1,16 @@
+{
+  "name": "cra-template-standard",
+  "version": "1.0.4",
+  "description": "CRA plus redux, router, axios, css-reset, styled components",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dave-vazquez/create-react-app.git"
+  },
+  "author": "Dave Vazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dave-vazquez/create-react-app/issues"
+  },
+  "homepage": "https://github.com/dave-vazquez/create-react-app#readme"
+}
